@@ -1,0 +1,24 @@
+/*se manda a traer a los h1 y se le da formato al texto*/
+h1{
+  text-align: center;
+  font-family: fantasy;
+  color: white;
+  font-size: 5em;
+
+}
+/*se manda a traer a los body y se le da un formato al fondo de la pantalla*/
+body{
+  background: black;
+  background-image: url(imagenes/avengers.png);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  color: white;
+  background-position: 200px 300px;
+}
+/*se manda a traer a los div y se le da formato al texto*/
+div{
+  text-align: center;
+  font-family: serif;
+  color: white;
+  font-size: 2em;
+}
